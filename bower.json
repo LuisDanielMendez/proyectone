@@ -1,0 +1,20 @@
+{
+  "name": "my first bootstrap project",
+  "homepage": "https://github.com/LuisDanielMendez/proyectone",
+  "authors": [
+    "LuisDanielMendez <zeuschapter1986@hotmail.com>"
+  ],
+  "description": "la saladitaas son horneadas",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
